@@ -1,2 +1,2 @@
 # myscript
-I will  backup  my script here.
+I will  backup  my scripts here.
